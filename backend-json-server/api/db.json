@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "id": "3f8a2df7-e2c8-4ffb-8df2-8d15bb3a456f",
+      "valor": 399,
+      "tipoTransacao": "debito"
+    },
+    {
+      "id": "8c43b728-8e3d-4b7d-9f12-1a3a2272357b",
+      "valor": 111,
+      "tipoTransacao": "credito"
+    },
+    {
+      "id": "bd7ae439-4c20-4b17-8aec-06b00c4963e3",
+      "valor": 999,
+      "tipoTransacao": "credito"
+    }
+  ]
+}
